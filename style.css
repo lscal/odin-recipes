@@ -5,3 +5,18 @@
 #tag {
     font-style: italic;
 }
+#fancy {
+    font-family: 'Brush Script MT',cursive;
+}
+.animation {
+    height: 303px;
+    width: 100%;
+}
+.food {
+    height: 300px;
+    width: 300px;
+}
+div.foodcaption {
+    text-align: center;
+    float: right;
+}
